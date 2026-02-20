@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Alexander 👋
 
-<!--
-**AlxFiguier/AlxFiguier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Functional Analyst & QA Analyst focused on bridging business and technology.
 
-Here are some ideas to get you started:
+## 🔎 Areas of Expertise
+- Requirements Analysis
+- User Stories & Acceptance Criteria
+- Test Case Design
+- UAT Coordination
+- Process Modeling (BPMN)
+- API Testing (Postman)
+- SQL Validation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently Working On
+- Building QA portfolio projects
+- Test automation foundations
+- Agile documentation templates
+
+## 📫 Contact
+LinkedIn: [your link]
